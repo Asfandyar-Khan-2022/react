@@ -69,6 +69,7 @@
 }
 
 .randar-content {
+  transform: scale(300%);
   position: relative;
   width: 320px;
   height: 320px;
